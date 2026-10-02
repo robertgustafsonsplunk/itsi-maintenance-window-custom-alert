@@ -1,0 +1,8 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+__pycache__/
+*.py[cod]
+TA-itsi-maintenance-window-test/
+*.spl
